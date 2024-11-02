@@ -1,3 +1,6 @@
+# TEMPLATE D'AUTHENTIFICATION PAR NEXTJS + CLERK
+
+
 ## Le site de Clerk pour l'authentification: 
 https://dashboard.clerk.com/
 
